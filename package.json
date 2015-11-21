@@ -18,5 +18,16 @@
   "homepage": "https://github.com/jacob-meacham/cannon-fire#readme",
   "devDependencies": {
     "jspm": "^0.16.15"
+  },
+  "jspm": {
+    "dependencies": {
+      "soundcloud/soundcloud-javascript": "github:soundcloud/soundcloud-javascript@^0.1.0",
+      "three": "npm:three@^0.73.0"
+    },
+    "devDependencies": {
+      "babel": "npm:babel-core@^5.8.24",
+      "babel-runtime": "npm:babel-runtime@^5.8.24",
+      "core-js": "npm:core-js@^1.1.4"
+    }
   }
 }
