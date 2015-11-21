@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/jacob-meacham/cannon-fire#readme",
   "devDependencies": {
-    "jspm": "^0.16.15"
+    "jspm": "^0.16.15",
+    "jspm-server": "^1.0.1"
   },
   "jspm": {
     "dependencies": {

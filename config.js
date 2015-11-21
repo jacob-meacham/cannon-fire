@@ -70,3 +70,5 @@ System.config({
     }
   }
 });
+
+System.trace = true;
