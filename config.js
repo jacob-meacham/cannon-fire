@@ -12,6 +12,7 @@ System.config({
     "github:*": "jspm_packages/github/*",
     "npm:*": "jspm_packages/npm/*"
   },
+  trace: true,
 
   map: {
     "babel": "npm:babel-core@5.8.34",
@@ -70,5 +71,3 @@ System.config({
     }
   }
 });
-
-System.trace = true;
