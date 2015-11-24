@@ -18,6 +18,8 @@ System.config({
     "babel": "npm:babel-core@5.8.34",
     "babel-runtime": "npm:babel-runtime@5.8.34",
     "core-js": "npm:core-js@1.2.6",
+    "dataarts/dat.gui": "github:dataarts/dat.gui@0.5.1",
+    "mrdoob/stats.js": "github:mrdoob/stats.js@master",
     "soundcloud/soundcloud-javascript": "github:soundcloud/soundcloud-javascript@0.1.0",
     "three": "npm:three@0.73.0",
     "github:jspm/nodelibs-assert@0.1.0": {

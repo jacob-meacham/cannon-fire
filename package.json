@@ -30,6 +30,8 @@
   },
   "jspm": {
     "dependencies": {
+      "dataarts/dat.gui": "github:dataarts/dat.gui@^0.5.1",
+      "mrdoob/stats.js": "github:mrdoob/stats.js@master",
       "soundcloud/soundcloud-javascript": "github:soundcloud/soundcloud-javascript@0.1.0",
       "three": "npm:three@0.73.0"
     },
