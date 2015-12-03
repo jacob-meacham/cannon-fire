@@ -19,6 +19,7 @@ System.config({
     "babel-runtime": "npm:babel-runtime@5.8.34",
     "core-js": "npm:core-js@1.2.6",
     "dataarts/dat.gui": "github:dataarts/dat.gui@0.5.1",
+    "hughsk/three-effectcomposer": "github:hughsk/three-effectcomposer@master",
     "mrdoob/stats.js": "github:mrdoob/stats.js@master",
     "soundcloud/soundcloud-javascript": "github:soundcloud/soundcloud-javascript@0.1.0",
     "three": "npm:three@0.73.0",
